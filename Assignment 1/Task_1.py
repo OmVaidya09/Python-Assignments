@@ -22,3 +22,13 @@ print(f"Addition: ", Addition)
 print(f"Subtraction: ", Subtraction)
 print(f"Multiplication: ", Multiplication)
 print(f"Division:", Division) 
+
+"""
+Output:
+Enter the first number: 5
+Enter the second number: 2.5
+Addition: 7.5
+Subtraction: 2.5
+Multiplication: 12.5
+Division: 2.0
+"""
