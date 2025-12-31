@@ -18,10 +18,10 @@ Subtraction = a - b
 Multiplication = a * b
 Division = a / b if b != 0 else "Undefined (cannot divide by zero)"
 
-print(f"Addition: ", Addition)
-print(f"Subtraction: ", Subtraction)
-print(f"Multiplication: ", Multiplication)
-print(f"Division:", Division) 
+print("Addition: ", Addition)
+print("Subtraction: ", Subtraction)
+print("Multiplication: ", Multiplication)
+print("Division:", Division) 
 
 """
 Output:
